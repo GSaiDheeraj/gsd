@@ -97,7 +97,7 @@ img {
 }
 
 .section-title h2 span {
-    color: #00B0DC;
+    color: #5a5a5a;
 }
 
 .section-title h2 {
@@ -126,7 +126,7 @@ img {
 /* Handle */
 
  ::-webkit-scrollbar-thumb {
-    background: #00B0DC;
+    background: #5a5a5a;
 }
 
 
@@ -163,7 +163,7 @@ img {
 .loader:before,
 .loader:after {
     content: '';
-    border: 1em solid #00B0DC;
+    border: 1em solid #5a5a5a;
     border-radius: 50%;
     width: inherit;
     height: inherit;
@@ -323,7 +323,7 @@ img {
 }
 
 .sticky_navigation .nav li.active a {
-    color: #00B0DC;
+    color: #5a5a5a;
 }
 
 .sticky_navigation .nav li.active::after {
@@ -339,7 +339,7 @@ img {
 }
 
 .sticky_navigation .logo span {
-    color: #00b0dc;
+    color: #5a5a5a;
 }
 
 .main-menu {
@@ -367,11 +367,11 @@ img {
     padding: 5px;
     font-size: 32px;
     letter-spacing: 3px;
-    color: #00b0dc;
+    color: #5a5a5a;
 }
 
 .logo span {
-    color: #00b0dc;
+    color: #5a5a5a;
 }
 
 .navbar-brand:focus,
@@ -392,7 +392,7 @@ img {
 }
 
 .navbar-right li.active a {
-    color: #00B0DC;
+    color: #5a5a5a;
 }
 
 .nav>li>a:hover,
@@ -412,7 +412,7 @@ img {
 /*----------- 5. Banner area css starts--------------*/
 
 .banner-area {
-    background-image: url(../images/home/ML.jpg);
+    background-image: url(../images/home/Andrej2.png);
     /*--edit image--*/
     background-position: center;
     background-size: cover;
@@ -510,7 +510,7 @@ canvas {
 }
 
 .social-icon ul li a:hover {
-    background: #00b0dc;
+    background: #4a4a4a;
 }
 
 .ah-headline.clip .ah-words-wrapper::after {
@@ -614,15 +614,15 @@ canvas {
 }
 
 .skill-btn {
-    background: #00b0dc;
-    border: 1px solid #00b0dc;
+    background: #4a4a4a;
+    border: 1px solid #5a5a5a;
     color: #fff;
 }
 
 .down-btn {
     background: none;
     color: #2B2F37;
-    border: 1px solid #00b0dc;
+    border: 1px solid #5a5a5a;
 }
 
 .about-text-left {
@@ -726,7 +726,7 @@ canvas {
 
 .service-icon i {
     font-size: 50px;
-    color: #00B0DC;
+    color: #5a5a5a;
     margin-bottom: 20px;
 }
 
@@ -867,7 +867,7 @@ canvas {
 .skillbar-bar .skillbar-child {
     width: 0;
     height: 100%;
-    background-color: #00B0DC;
+    background-color: #5a5a5a;
     -webkit-transition-property: width, background-color;
     -o-transition-property: width, background-color;
     transition-property: width, background-color;
@@ -894,7 +894,7 @@ canvas {
     left: 0px;
     bottom: 0px;
     right: 0px;
-    background: #00B0DC;
+    background: #5a5a5a;
     opacity: 0;
     -webkit-transition: all .5s ease;
     -moz-transition: all .5s ease;
@@ -987,7 +987,7 @@ ul.port-nav-list li a {
 }
 
 ul.port-nav-list li a.active {
-    color: #00B0DC;
+    color: #5a5a5a;
 }
 
 .port-items {
@@ -1051,7 +1051,7 @@ ul.port-nav-list li a.active {
 }
 
 .statistic-area .item h2 {
-    color: #00B0DC;
+    color: #5a5a5a;
     font-weight: 800;
     font-size: 45px;
     margin-top: 10px;
@@ -1086,7 +1086,7 @@ ul.port-nav-list li a.active {
 .resumes li h4 {
     text-transform: uppercase;
     font-size: 15px;
-    color: #00B0DC;
+    color: #5a5a5a;
 }
 
 .resumes li h5 {
@@ -1149,7 +1149,7 @@ ul.port-nav-list li a.active {
 
 .testi-comment i {
     font-size: 30px;
-    color: #00B0DC;
+    color: #5a5a5a;
 }
 
 .single-testimonial h3 {
@@ -1173,7 +1173,7 @@ ul.port-nav-list li a.active {
 
 .testi-comment i {
     font-size: 30px;
-    color: #00B0DC;
+    color: #5a5a5a;
 }
 
 .single-testimonial h7 {
@@ -1198,7 +1198,7 @@ ul.port-nav-list li a.active {
 
 .testi-comment i {
     font-size: 30px;
-    color: #00B0DC;
+    color: #5a5a5a;
 }
 
 .single-testimonial h5 {
@@ -1240,7 +1240,7 @@ ul.port-nav-list li a.active {
 }
 
 .owl-dot.active {
-    background-color: #00B0DC !important;
+    background-color: #5a5a5a !important;
 }
 
 
@@ -1266,7 +1266,7 @@ ul.port-nav-list li a.active {
 }
 
 .right-contact-text i {
-    color: #00B0DC;
+    color: #5a5a5a;
     font-size: 25px;
     margin-bottom: 10px;
 }
@@ -1279,7 +1279,7 @@ ul.port-nav-list li a.active {
 }
 
 .btn.btn-send {
-    background: #00B0DC;
+    background: #5a5a5a;
     color: #ffffff;
     border-radius: 0;
     padding: 15px 20px;
@@ -1332,7 +1332,7 @@ ul.port-nav-list li a.active {
 }
 
 .footer-area a {
-    color: #00B0DC;
+    color: #5a5a5a;
 }
 
 
