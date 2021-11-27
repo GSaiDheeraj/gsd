@@ -435,7 +435,7 @@ img {
     height: 160px;
     border-radius: 50%;
     overflow: hidden;
-    border: 5px solid #fff;
+    border: 5px solid #000;
     display: inline-block;
 }
 
